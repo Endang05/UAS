@@ -1,0 +1,127 @@
+.container{
+                margin-top: 130px;
+                margin-left: 500px;
+            }
+            
+            .bingkai{
+                border: 5px solid #3d9cdb;
+                width: 400px;
+                height: 200px;
+                
+            }
+            body{
+                background-color: #3d9cdb;
+            }
+
+            .kepala{
+                width: 450px;
+                height: 50px;
+                background-color: #3498db;
+                border-radius: 3px 3px 0 0;
+            }
+
+            .kepalatext{
+                color: #ffffff;
+                text-align: center;
+                font-size: 18pt;
+                font-family: sans serif;
+                padding-top: 12px;
+            }
+            
+            .kepalatext:hover{
+                color: #e74c3c;
+            }
+
+            .badan{
+                width: 450px;
+                height: 360px;
+                background-color: #ffffff;
+                border-radius: 3px;
+                box-shadow: 6px 6px 0 0 #ffffff;
+            }
+
+            .email{
+                font-family: sans serif;
+                font-size: 13pt;
+                width: 415px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                margin-left: 15px;
+                margin-top: 65px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .passwd{
+                font-family: sans serif;
+                font-size: 13pt;
+                width: 415px;
+                height: 35px;
+                border: 1px solid #2980b9;
+                margin-left: 15px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .daftar{
+                background-color: #ffffff;
+                color: #3498db;
+                margin-top: 1px;  
+                margin-left: 15px;
+                width: 415px;
+                height: 40px;
+                border: 2px solid #3498db;
+                border-radius: 5px;
+                font-family: sans serif;
+                font-size: 13pt;
+            }
+
+            .daftar:hover{
+                background-color: #e74c3c;
+                color: #ffffff;
+            }
+
+            .bawah{
+                margin-top: 80px;
+                width: 440px;
+                height: 80px;
+                background-color: #3498db;
+                border-radius: 0 0 3px 3px;
+            }
+
+            .footertext{
+                margin-top: 5px;
+                text-align: center;
+                font-family: sans serif;
+                font-size: 12pt;
+                color: #ffffff;
+            }
+            .footertext>a{
+                color: #fefefe;
+            }
+            .footertext>a:hover{
+                color: #0e0e0e;
+            }
+			
+			.button {
+			background-color: #7ea0d6;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			margin: 4px 2px;
+			cursor: pointer;
+}
+
+			.button1 {font-size: 10px;}
+			.button2 {font-size: 12px;}
+			.button3 {font-size: 16px;}
+			.button4 {font-size: 20px;}
+			.button5 {font-size: 24px;}
